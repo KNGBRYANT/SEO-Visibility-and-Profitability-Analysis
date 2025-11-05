@@ -142,7 +142,7 @@ function runSEODataBatch() {
 
 ## Power BI Dashboard
 
-**Public Link:** [View on Power BI Public](#)  
+**Public Link:**  [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)  
 
 **Key Visuals:**  
 - Keyword Count per Bank  
@@ -191,7 +191,7 @@ This analysis explores the link between **SEO visibility** and **profit performa
 A weak positive correlation exists between SEO visibility and profitability, suggesting that while search visibility matters, it does not fully predict financial outcomes.  
 Banks can leverage these findings to refine **content strategy**, boost **brand reach**, and improve **conversion efficiency**.  
 
-**Full Report:** [Nigerian_Banks_SEO_Profit_Report.pdf](Nigerian_Banks_SEO_Profit_Report.pdf)  
+**Full Report:** [Nigerian_Banks_SEO_Profit_Report.pdf](Nigerian_Banks_SEO_Profit_Report..pdf)  
 **Dashboard:** [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)  
 
 ---
