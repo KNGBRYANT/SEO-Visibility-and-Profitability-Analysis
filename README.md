@@ -163,5 +163,46 @@ function runSEODataBatch() {
 - **Access Bank** and **GTBank** follow with approximately 11% each.  
 - Scatter plot indicates a **weak positive correlation** between SEO visibility and profit (PAT).  
 - High-profit banks with low visibility represent opportunities for **targeted SEO content expansion**.  
-- High-visibility banks with low profit may need **UX or conversion optimization** to better capitalize on traffic.  
+- High-visibility banks with low profit may need **UX or conversion optimization** to better capitalize on traffic.
+
+---
+## Recommendations
+
+- High-PAT, low-SEO banks: invest in **keyword-targeted content**.  
+- High-SEO, low-PAT banks: optimize **conversion funnels**.  
+- Build **content clusters** for under-served high-volume terms.  
+- Track **SERP ranks monthly** to validate SEO ROI.  
+
+---
+
+## Limitations
+
+- SerpApi capped at **250 queries/month**.  
+- **SERP positions fluctuate** daily.  
+- Financial data partly **estimated**.  
+- CPC and competition are **relative**, not absolute.  
+
+---
+
+## Conclusion
+
+This analysis explores the link between **SEO visibility** and **profit performance** across Nigerian consumer banks.  
+**UBA** leads with 32% visibility share and the highest keyword presence.  
+A weak positive correlation exists between SEO visibility and profitability, suggesting that while search visibility matters, it does not fully predict financial outcomes.  
+Banks can leverage these findings to refine **content strategy**, boost **brand reach**, and improve **conversion efficiency**.  
+
+**Full Report:** [Nigerian_Banks_SEO_Profit_Report.pdf](Nigerian_Banks_SEO_Profit_Report.pdf)  
+**Dashboard:** [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmVhOGIzOTItYjRhZi00NDMwLTk2YWItMWQ0NTdiNzg4YjVmIiwidCI6IjU3ODlhOGIxLWFjN2MtNDMxZS05YTQyLWJlOTk0NTNjNWIzMCJ9)  
+
+---
+
+## Author & Contributors
+
+**Author:** [Lawal Mayowa](https://www.linkedin.com/in/lawal-mayowa-160bb930b/)  
+**Dataset Preparation & Script:** `seo_data_scraper.js`  
+**Power BI Dashboard:** `SEO_Dashboard.pbix`  
+**Data Source:** SerpApi, Google Keyword Planner, Ubersuggest  
+
+---
+
 
